@@ -1,6 +1,8 @@
 # ARM-Assembly-Programs
 
-This is a collection of programs that I work on during my Microprocessor and Computer Architecture Laboratory.
+This is a collection of programs that I have worked on during my Microprocessor and Computer Architecture Laboratory.
+
+This repository will be updated every week.
 
 These programs are written in pure ARM assembly and were tested on ARMSim#.
 
