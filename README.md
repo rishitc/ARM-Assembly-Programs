@@ -44,7 +44,10 @@ Below are the list of programs that I worked on each week,
 
    6. Write an ALP to find the GCD of given numbers (I have implemented this using Euclid's Algorithm)
 
+      
 
+3. **Algorithms**
+   1. Write an ALP to find an element in a list of numbers using the binary search algorithm
 
 ## Note
 
