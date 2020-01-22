@@ -11,10 +11,10 @@
     @ 7. r7 : register to hold the index of the element found, and hold -1 if the element is not found in the list
 
     @ in this program we will be searching for 100 in the list of numbers in memory [element present in the array]
-    @ mov r0, #100
+    mov r0, #100
 
      @ in this program we will be searching for 110 in the list of numbers in memory [element not present in the array]
-    mov r0, #110
+    @ mov r0, #110
 
     @ we will also set r7 to -1 initially
     mov r7, #-1
